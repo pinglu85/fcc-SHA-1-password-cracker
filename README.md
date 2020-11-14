@@ -1,3 +1,7 @@
+### freeCodeCamp - Information Security Projects - SHA-1 Password Cracker
+
+[![Run on Repl.it](https://repl.it/badge/github/pinglu85/fcc-SHA-1-password-cracker)](https://repl.it/github/pinglu85/fcc-SHA-1-password-cracker)
+
 ### Assignment
 
 Passwords should never be stored in plain text. They should be stored as hashes, just in case the password list is discovered. However, not all hashes are created equal.
